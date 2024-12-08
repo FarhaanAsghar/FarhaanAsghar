@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Farhan Asghar</h1>
 <h3 align="center">A passionate Data Scientist and ML/DL/AI Engineer from Pakistan</h3>
